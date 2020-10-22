@@ -1,0 +1,20 @@
+{
+  "appName": {
+    "message": "IG by @rsnpj"
+  },
+  "appDesc": {
+    "message": "Direct Messenger for Instagram™ on desktop allows you to receive, read and reply to messages in Instagram™ Direct on your PC and Mac"
+  },
+  "settings_title": {
+    "message": "Messages"
+  },
+  "settings_send_by_Enter": {
+    "message": "Send by Enter"
+  },
+  "settings_send_by_CtrlEnter": {
+    "message": "Send by Ctrl+Enter"
+  },
+  "settings_volume": {
+    "message": "Notifications volume"
+  }
+}

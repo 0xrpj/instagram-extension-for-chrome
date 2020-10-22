@@ -1,0 +1,26 @@
+{
+  "appName": 
+  {
+    "message": "Direct Messenger para Instagram™ en el computadora de escritorio"    
+  },
+  "appDesc": 
+  {
+    "message": "Direct Messenger para Instagram™ en el escritorio le permite leer, recibir y responder a sus mensajes en Instagram directo desde su PC o Mac."    
+  },
+  "settings_title":
+  {
+  	"message": "Mensajes"
+  },
+  "settings_send_by_Enter":
+  {
+  	"message": "Enviado por Enter"
+  },
+  "settings_send_by_CtrlEnter":
+  {
+  	"message": "Enviado por Ctrl+Enter"
+  },
+  "settings_volume":
+  {
+  	"message": "Notificaciones del volumen"
+  }
+}

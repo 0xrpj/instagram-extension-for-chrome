@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<meta charset="utf-8">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/nouislider.min.css">
+		<link rel="stylesheet" type="text/css" href="css/instPopup.css">
+	</head>
+	<body>
+	<div class="overlayer"></div>
+		<div class="rateUsWrapper">			
+		</div>
+		<div class="optionWrapper">
+			<div class="optionWrapper-box">
+				<a href="#" class="close__box"></a>
+				<div class="option__box">
+					<div class="option__modal-title localize" data-localize="settings_title"></div>
+
+					<label for="sendShortcut1">
+						<input type="radio" id="sendShortcut1" name="sendShortcut" value="enter">
+						<div class="radio__decor"></div>
+						<div class="radio__title localize" data-localize="settings_send_by_Enter"></div>
+					</label>
+					<label for="sendShortcut2">
+						<input type="radio" id="sendShortcut2" name="sendShortcut" value="ctrlenter">
+						<div class="radio__decor"></div>
+						<div class="radio__title localize" data-localize="settings_send_by_CtrlEnter"></div>
+					</label>
+				</div>
+				<div class="option__box">
+					<div class="option__modal-title localize" data-localize="settings_volume"></div>
+					<div class="hidden">
+						<input type="range" min="0.0" max="1.0" step="0.1" id="volumeRange" data-rangeslider>
+						<span id="volumeValueoutput"></span>
+					</div>
+					<div id="slider"></div>
+
+				</div>
+			</div>
+		</div>
+		<div class="mainWrapper">
+			<div class="instaWrapper">				
+				<iframe id="instFrame" src="https://www.instagram.com/direct/inbox/"></iframe>
+			</div>
+			<div class="bannerWrapper">
+				<a href="https://www.instagram.com/maria__art__romanova/" target="_blank">
+					<img src="img/banner.jpg">
+				</a>
+				<a href="#" class="options__open"></a>
+			</div>
+		</div>		
+	</body>	
+	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="js/nouislider.min.js"></script>
+	<script type="text/javascript" src="js/instMsg.Popup.js"></script>
+</html>

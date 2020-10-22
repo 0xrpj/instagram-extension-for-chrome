@@ -1,0 +1,25 @@
+{
+  "appName": 
+  {
+    "message": "Директ для Инстаграма™ для ПК"    
+  },
+  "appDesc": {
+    "message": "Директ для Инстаграма™ для ПК позволяет вам получать, читать и отвечать на сообщения в Instagram™ Direct на ПК или Mac"    
+  },
+  "settings_title":
+  {
+  	"message": "Сообщения"
+  },
+  "settings_send_by_Enter":
+  {
+  	"message": "Отправлять по Enter"
+  },
+  "settings_send_by_CtrlEnter":
+  {
+  	"message": "Отправлять по Ctrl+Enter"
+  },
+  "settings_volume":
+  {
+  	"message": "Громкость сообщений"
+  }
+}

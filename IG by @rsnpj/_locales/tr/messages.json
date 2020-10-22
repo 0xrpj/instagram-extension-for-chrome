@@ -1,0 +1,25 @@
+{
+  "appName": 
+  {
+    "message": "Masaüstünde Instagram için Direkt Mesajlaşma™"    
+  },
+  "appDesc": {
+    "message": "Masaüstünde Instagram için Direkt Mesajlaşma™ size Instagram Direct ile PC’niz veya Mac bilgisayarınız aracılığı ile mesaj alma, okuma ve cevap verme imkanı sağlar."    
+  },
+  "settings_title":
+  {
+  	"message": "Mesajlar"
+  },
+  "settings_send_by_Enter":
+  {
+  	"message": "Enter ile gönder"
+  },
+  "settings_send_by_CtrlEnter":
+  {
+  	"message": "Ctrl+Enter ile gönder"
+  },
+  "settings_volume":
+  {
+  	"message": "Uyarıların yoğunluğu"
+  }
+}

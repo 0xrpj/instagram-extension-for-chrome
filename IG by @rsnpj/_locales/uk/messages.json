@@ -1,0 +1,25 @@
+{
+  "appName": 
+  {
+    "message": "Директ для Інстаграм™ для ПК"    
+  },
+  "appDesc": {
+    "message": "Директ для Інстаграм™ для ПК дозволяє Вам отримувати, читати, відповідати на повідомлення Direct Messenger для Instagram™ на ПК або Mac"    
+  },
+  "settings_title":
+  {
+  	"message": "Повідомлення"
+  },
+  "settings_send_by_Enter":
+  {
+  	"message": "Відправляти за Enter"
+  },
+  "settings_send_by_CtrlEnter":
+  {
+  	"message": "Відправляти за Ctrl+Enter"
+  },
+  "settings_volume":
+  {
+  	"message": "Гучність повідомлень"
+  }
+}
